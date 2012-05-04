@@ -1,5 +1,5 @@
 name: Zeus
-main: me.endorphin8er.zues.zues
+main: me.endorphin8er.zeus.zeus
 version: 0.0.1
 depend: [Spout]
 authors: [endorphin8er,Quantum-Sicarius]

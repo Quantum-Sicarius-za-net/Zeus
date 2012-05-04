@@ -1,0 +1,8 @@
+name: Zeus
+main: me.endorphin8er.zues.zues
+version: 0.0.1
+depend: [Spout]
+authors: [endorphin8er,Quantum-Sicarius]
+commands:
+   zues:
+      usage: /<command>

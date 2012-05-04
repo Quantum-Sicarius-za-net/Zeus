@@ -1,11 +1,19 @@
 # Compiled source #
 ###################
+bin
+lib
+out
+target
 *.com
 *.class
 *.dll
 *.exe
 *.o
 *.so
+
+# Git #
+#######
+.git
 
 # Packages #
 ############
@@ -32,4 +40,27 @@
 ehthumbs.db
 Icon?
 Thumbs.db
+
+# Project files #
+#################
+.classpath
+.externalToolBuilders
+.project
+.settings
+MANIFEST.MF
+
+# Netbeans files #
+##################
+build
+dist
+nbproject
+build.xml
+nb-configuration.xml
+
+# IntelliJ IDEA files #
+#######################
+.idea
+*.iml
+*.ipr
+*.iws
 
